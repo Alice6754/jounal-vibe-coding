@@ -12,4 +12,4 @@ Ici, je note ce que j'apprend en vibe coding.
 
 - **Git** : garder l'historique de mon projet
 - **Gitub** : le partager en ligne
-- **Markdown : écrire du texte mis en forme 
+- **Markdown** : écrire du texte mis en forme 
