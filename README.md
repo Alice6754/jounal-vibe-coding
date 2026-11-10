@@ -16,4 +16,4 @@ Ici, je note ce que j'apprend en vibe coding.
 
 ## Ma page
 
-[Voir ma page en ligne](https://VOTRE-PSEUDO.github.io/vibe-coding-starter/)
+[Voir ma page en ligne]([https://VOTRE-PSEUDO.github.io/vibe-coding-starter/](https://www.instagram.com/))
